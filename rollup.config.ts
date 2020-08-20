@@ -7,7 +7,7 @@ import json from 'rollup-plugin-json'
 
 const pkg = require('./package.json')
 
-const libraryName = 'my-jssdk'
+const libraryName = 'web-jssdk'
 
 export default {
   input: `src/${libraryName}.ts`,

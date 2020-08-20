@@ -1,15 +1,15 @@
 {
-  "name": "my-jssdk",
+  "name": "web-jssdk",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
-  "main": "dist/my-jssdk.umd.js",
-  "module": "dist/my-jssdk.es5.js",
-  "typings": "dist/types/my-jssdk.d.ts",
+  "main": "dist/web-jssdk.umd.js",
+  "module": "dist/web-jssdk.es5.js",
+  "typings": "dist/types/web-jssdk.d.ts",
   "files": [
     "dist"
   ],
-  "author": "wenjie.geng <gwjlib@163.com>",
+  "author": "Joey <joey@yunio.com>",
   "repository": {
     "type": "git",
     "url": ""

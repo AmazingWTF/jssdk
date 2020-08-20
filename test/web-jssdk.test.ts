@@ -1,4 +1,4 @@
-import DummyClass from "../src/my-jssdk"
+import DummyClass from "../src/web-jssdk"
 
 /**
  * Dummy test
@@ -9,6 +9,6 @@ describe("Dummy test", () => {
   })
 
   it("DummyClass is instantiable", () => {
-    expect(new DummyClass()).toBeInstanceOf(DummyClass)
+    expect(new DummyClass('')).toBeInstanceOf(DummyClass)
   })
 })
